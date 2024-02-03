@@ -2,6 +2,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const vision = require("@google-cloud/vision");
 const CREDENTIALS = require("./keys.json");
+const cors = require("cors");
 
 const client = new vision.ImageAnnotatorClient({
   credentials: {
@@ -11,6 +12,7 @@ const client = new vision.ImageAnnotatorClient({
 });
 
 const app = express();
+app.use(cors());
 app.use(bodyParser.json());
 
 app.post("/detect-text", async (req, res) => {
