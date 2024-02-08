@@ -55,6 +55,7 @@ app.post("/detect-text", async (req, res) => {
 
     const productName = largestText || "Not detected";
     res.status(200).send({ productName });
+    console.log(productName);
   } catch (error) {
     console.error("Error processing image:", error);
     res.status(500).send("Error processing image");
