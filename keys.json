@@ -1,13 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "nth-mantra-410703",
-  "private_key_id": "6ab2b43036b11a6c2e26240abd98db425e076bd5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNtiu/9k3a1uPk\nSnTSoYN511DoARYqIJPRAbqxp12uLJgkJsawjObyA3SVPPX/1Ch2sGDY1RJ13UTx\nyqDu891ggfnDY6AtLXHskxZgQ3cYmnx4bUqVKMKlUwX8ajwOBopohwU0Vbg9XSyA\nEu3FN040Tci5bytTd4E+sHbvnEMmm5ZxMKQ85rnhZC9VwSGAxUB/1l5d249871nk\nxlY6HO4zRkWtFOxQF7bodkr0rGTNmTa/b5TaQD8WjzTHzVGwYrdbSSLe7Tnp8k/y\nnmG4sjFgtnWHPd9svgd6jyJN0XeGyW/60If9ssze6JpibHOBUSR4ULpdd0D54ESP\n993ddtAzAgMBAAECggEAR/XBcSnKi1KfrrTjD+mDEgShnz7+D2eM/dCii9HVwf+E\niyTrXUg045UU273S+havvvEtN7y1c/iezQxKZrx1BPUCt3hqyFL85rp/WdZP25Hz\nF7d3nxz+lhGoZueMsYVVNoKA7hFMXV7yGa1FcrdJip9pJ4D9gXmtAw581I3vqZmk\nI2toJUXT2eFMdKXma2x9TW5BrB1HYasKtjjEymVmxOfVXym5iaFddYaFTUlNNmUd\n6cJG4aG95GUSjhcBtFSgGgo+rnccdJeX4Qe2L2faQtHirru/XgI5CFwhr7SM8pM1\nXdup0MHp9MVpG0UWlBGRLFV8X3jDzQqA2x8WE3LtxQKBgQDn+M8Rx48cKRdKB5u2\nDUv/SM1beStSaL8i8Mrmg4t9JW3YMZDRS1dpWnHM7nZ4m9SHwhPGehwlsGoZOY7y\n0i4IxgtxWV1NMwxUOIL7h64uoHPUf4y8wg5uAPMccQWfh9YcHLRtMEShteaIMcqz\nazaDeU3CxCElvRpmww/yQm7WtwKBgQDjBQS4lx8cl7Ki8VYn1timBbvmL3dVZ+kr\nIVjC2i6POni7ezPJmVASbcYyGsuMsJhMZq98tDrRQXDSx/OzqGgwTbcLRswKfOje\nxUXKcaXGHrj3k1NVtkafLiTKfGMBHZK7RnSujeU4DjiMd8Wogws17/rEwgU09jrm\nL2Vi15q2ZQKBgQCpHADRJFtXGzmoNW21xXHO1KMo+We0tzoIXeR9Mg7hmATBJDk/\n6x35Zv8pd/qUKH5CziCeg+y7KSXf588nhEQdD0vOQWi8W+e0ClKqzhoUUdK/apEO\nFqZwWW7iIB8KUvurGN4L77FI9pPuW+Y68IEYTbl7sIG9wmNZ4QBiCz5EdwKBgGyj\nQCkdmHPUXFYBa5tRAwggAlUbLd4fBcPwB0vnoRRFhPUi9htpVJodEhV0IShIcflN\nwnjIvsTYricQLJ0y3/kNl6S70nTKZZ4FhWpljFEM7rL7O4vu2EjgihakA7TK9CbO\nhpPpr2Ft3L3LqzkCzOCY4MY7msZHdtQkpj3ws0bJAoGAeVapLkBbW9Zkrumni6Od\n4W7yKFSYx1Tdo3E/bZ3tZthl57aKCQrDWP9f20KR9CYrVSpvWXhH1EBXZ2dwdXch\nQRAcrDj708Y5qRHdMfwJygZuffRxVRllbUr5ehMy755bVxDZugMt9+G+NdWVa/fn\nctmrGYuyK3S08+1XKI+yYgI=\n-----END PRIVATE KEY-----\n",
-  "client_email": "win-diesel@nth-mantra-410703.iam.gserviceaccount.com",
-  "client_id": "116813497816861194443",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/win-diesel%40nth-mantra-410703.iam.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-}
+
